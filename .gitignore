@@ -1,0 +1,6 @@
+# ignore the build folder
+x64
+# Ignore the VS studio local files
+.vs
+*.user
+*.filters
